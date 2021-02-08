@@ -1,0 +1,21 @@
+{
+  "name": "ecommerceproject",
+  "version": "1.0.0",
+  "description": "Project to practice Page Object Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "author": "Ruben Dario Muñoz",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "cucumber": "^7.0.0-rc.0",
+    "testcafe": "^1.10.1",
+    "testcafe-reporter-allure": "^1.0.5",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0"
+  }
+}
